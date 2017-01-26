@@ -2,6 +2,10 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+;I'm not commanting anything because it's not a turtoal, but if you want to know about it just let me know, i'm already happy when you opened this.
+
+
 sendMode, Event
 setkeyDelay, 10
 
