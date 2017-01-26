@@ -4,4 +4,4 @@ Important
 
 You will need to delete # and {}, and manually add them back
 
-This only works in windows since it's done by Autohotkey.
+This tool only works in windows since it's done by Autohotkey.
